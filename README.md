@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Augustine Chukwunta</h1>
-<p align="left">A graduate research assistant and MSc student at Brandon University, specializing in bioinformatics. I'm passionate about unraveling insights through data science and bring over 1 year of experience as a data analyst. My tech toolkit includes Python, Bash script, Pandas, Seaborn, SQLite, and Scikit-Learn. Beyond my academic and academic pursuits, I have a keen interest in music and gardening. Looking forward to connecting and discussing data, music, or plants!
+<p align="left">A graduate research assistant and MSc student at Brandon University, specializing in bioinformatics. I'm passionate about unraveling insights through data science and bring over 1 year of experience as a data analyst. My tech toolkit includes Python, Bash script, Pandas, Seaborn, SQLite, and Scikit-Learn. Beyond my academic and academic pursuits, I have a keen interest in music and gardening. Looking forward to connecting and discussing data!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achukwunta&label=Profile%20views&color=0e75b6&style=flat" alt="achukwunta" /> </p>
 
