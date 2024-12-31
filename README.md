@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Augustine Chukwunta</h1>
-<p align="left">A graduate research assistant and MSc student at Brandon University, specializing in bioinformatics. I'm passionate about unraveling insights through data science and bring over 1 year of experience as a data analyst. My tech toolkit includes Python, Bash script, Pandas, Seaborn, SQLite, and Scikit-Learn. Beyond my academic and academic pursuits, I have a keen interest in music and gardening. Looking forward to connecting and discussing data!
+<p align="left">A graduate research assistant and MSc student at Brandon University, specializing in bioinformatics. I am passionate about research, with expertise in data analysis, genomics, and computational biology. My work focuses on using RNA seqencing, transcriptomics, and metagenomics to address agricultural challenges, particularly in pest and pathogen control. My tech toolkit includes Python, Bash script, Pandas, Seaborn, SQLite, and Scikit-Learn. Beyond my academic and academic pursuits, I have a keen interest in music and gardening. Looking forward to connecting and discussing data!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achukwunta&label=Profile%20views&color=0e75b6&style=flat" alt="achukwunta" /> </p>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Full Stack Application Development**
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 I’m looking to collaborate on **Bioinformatics and Data Science projects**
 
-- 🤝 I’m looking for help with **Web development projects**
+- 🔧 toolkit includes **single-cell RNA-Seq tools (FASTQC, MultiQC, Trimmomatic, HISAT2, Samtools, Salmon,
+FeatureCounts, Trinity, BUSCO, BLAST, QIIME2, Kraken2, PROKKA) and genomic databases (NCBI,
+Ensembl, GEO)**
 
-- 💬 Ask me about **Data wrangling, Data Visualization, and Machine Learning**
+- 🤝 I’m looking for help with **App development projects**
+
+- 💬 Ask me about **Genomic data analysis, transcriptome assembly, microbial profilling, Data Visualization, and Machine Learning**
 
 - 📫 How to reach me **achukwunta14@gmail.com**
 
