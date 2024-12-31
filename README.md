@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Augustine Chukwunta</h1>
-<p align="left">A graduate research assistant and MSc student at Brandon University, specializing in bioinformatics. I am passionate about research, with expertise in data analysis, genomics, and computational biology. My work focuses on using RNA seqencing, transcriptomics, and metagenomics to address agricultural challenges, particularly in pest and pathogen control. My tech toolkit includes Python, Bash script, Pandas, Seaborn, SQLite, and Scikit-Learn. Beyond my academic and academic pursuits, I have a keen interest in music and gardening. Looking forward to connecting and discussing data!
+<p align="left">A graduate research assistant and MSc student at Brandon University, specializing in bioinformatics, particularly RNA sequencing, transcriptomics, and metagenomics. My research leverages advanced genomic tools and computational techniques to address critical issues in agriculture, such as plants, pests, and pathogens. I am passionate about research, with expertise in data analysis, genomics, and computational biology. I have hands-on experience in Python, Bash scripting, and Linux command-line. My toolkit includes RNA-Seq tools (FASTQC, MultiQC, Trimmimatic, HISAT2, Salmon, FeatureCounts), transcriptome assembly (Trinity, Blast), microbial profiling (MEGAHIT, Kraken2, PROKKA, QIIME2), genomic databases (NCBI, Ensembl, GEO), and data analysis frameworks (Pandas, PyTorch, Scikit-Learn). Beyond my research and lab work, I find inspiration in music and gardening, which keeps me creative and relaxed. I am looking forward to connecting and discussing genomic data analysis!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achukwunta&label=Profile%20views&color=0e75b6&style=flat" alt="achukwunta" /> </p>
 
@@ -7,13 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Bioinformatics and Data Science projects**
 
-- 🔧 toolkit includes **single-cell RNA-Seq tools (FASTQC, MultiQC, Trimmomatic, HISAT2, Samtools, Salmon,
-FeatureCounts, Trinity, BUSCO, BLAST, QIIME2, Kraken2, PROKKA) and genomic databases (NCBI,
-Ensembl, GEO)**
+- 🔧 toolkit includes **single-cell RNA-Seq tools and genomic databases (NCBI, Ensembl, GEO)**
 
 - 🤝 I’m looking for help with **App development projects**
 
-- 💬 Ask me about **Genomic data analysis, transcriptome assembly, microbial profilling, Data Visualization, and Machine Learning**
+- 💬 Ask me about **Genomic data analysis, Data Visualization, and Machine Learning**
 
 - 📫 How to reach me **achukwunta14@gmail.com**
 
