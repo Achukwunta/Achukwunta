@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **achukwunta14@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/4a4dvpn](https://bit.ly/4a4dvpn)
+- 📄 Know about my experiences [https://bit.ly/4fQRNIf](https://bit.ly/4fQRNIf)
 
 - ⚡ Fun fact **I love gardening**
 
