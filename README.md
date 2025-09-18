@@ -1,23 +1,32 @@
 <h1 align="center">Hi 👋, I'm Augustine Chukwunta</h1>
-<p align="left">A graduate research assistant and MSc student at Brandon University, specializing in bioinformatics, particularly RNA sequencing, transcriptomics, and metagenomics. My research leverages advanced genomic tools and computational techniques to address critical issues in agriculture, such as plants, pests, and pathogens. I am passionate about research, with expertise in data analysis, genomics, and computational biology. I have hands-on experience in Python, Bash scripting, and Linux command-line. My toolkit includes RNA-Seq (FASTQC, MultiQC, Trimmomatic, HISAT2, Salmon, FeatureCounts), transcriptome assembly (Trinity, Blast), microbial profiling (MEGAHIT, Kraken2, PROKKA, QIIME2), genomic databases (NCBI, Ensembl, GEO), and data analysis frameworks (Pandas, PyTorch, Scikit-Learn, PyDESeq2). Beyond my research and lab work, I find inspiration in music and gardening, which keeps me creative and relaxed. I am looking forward to connecting and discussing genomic data analysis!
+<p align="left">A graduate research assistant and M.Sc. student at Brandon University, specializing in bioinformatics, particularly RNA sequencing, transcriptomics, and metagenomics. My research leverages genomic tools and data analytical approaches to address critical issues in agriculture, such as elucidating plant-pathogen interactions and how microbial diversity shape plant resilience and pathogen adaptation. I have hands-on experience in Python, Bash scripting, and Linux command-line. 
+
+## 🔧 My Toolkit
+
+- **RNA-Seq**: FastQC, MultiQC, Trimmomatic, HISAT2, Salmon, FeatureCounts
+- **Transcriptome Assembly**: Trinity, Blast
+- **Microbial Profiling**: QIIME2
+- **Genomic Databases**: NCBI NCBI-GEO, Ensembl, SoyBase, Vectorase, DAVID, Galaxy
+- **Data Analysis Frameworks**: Pandas, Scikit-Learn, PyDESeq2
+- **Visualization**: Matplotlib, Seaborn
+
+  ## 📜 Certifications & Professional Development
+
+- **[Bioinformatics Specialization](https://coursera.org/share/ddf22464a84e589b67339625baa78173)** | University of California, San Diego (Coursera) | *JULY 2025*
+- **[Genomic Data Science Specialization](https://coursera.org/share/8a94952989d91672fc59f4baf507ed24)** | John Hopkins University (Coursera) | *APRIL 2025*
+- **[SQL for Data Science](https://coursera.org/share/6caefac34239d0ed56290bd317183240)** | University of California, Davis (Coursera) | *MARCH 2025*
+- **[Python for Data Science](https://courses.edx.org/certificates/7de508c8d7f04e55975a0dd15c1a638d)** | IBM (edX) | *JAN 2025*
+- **[Introduction to Cloud Computing](https://courses.edx.org/certificates/163ea2740e7c4f208579e1ad973e3c9d)** | IBM (edX) | *JUNE 2024*
+- **R Workshop** | Dr. Steffi LaZerte | *FEB 2024*
+- **Data Analytics Bootcamp** | One Campus | *JULY 2023*
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achukwunta&label=Profile%20views&color=0e75b6&style=flat" alt="achukwunta" /> </p>
-
-- 🌱 I’m currently learning **Full Stack Application Development**
-
+  
 - 👯 I’m looking to collaborate on **Bioinformatics and Data Science projects**
 
-- 🔧 toolkit includes **single-cell RNA-Seq tools and genomic databases (NCBI, Ensembl, GEO)**
-
-- 🤝 I’m looking for help with **App development projects**
-
-- 💬 Ask me about **Genomic data analysis, Data Visualization, and Machine Learning**
-
-- 📫 How to reach me **achukwunta14@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/4fQRNIf](https://bit.ly/4fQRNIf)
-
-- ⚡ Fun fact **I love gardening**
+- ⚡ Fun fact I love **music** and **gardening**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
