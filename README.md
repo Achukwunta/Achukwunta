@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Augustine Chukwunta</h1>
-<p align="left">A graduate research assistant and M.Sc. student at Brandon University, specializing in bioinformatics, particularly RNA sequencing, transcriptomics, and metagenomics. My research leverages genomic tools and data analytical approaches to address critical issues in agriculture, such as elucidating plant-pathogen interactions and how microbial diversity shape plant resilience and pathogen adaptation. I have hands-on experience in Python, Bash scripting, and Linux command-line. 
+<p align="left">A graduate research assistant and M.Sc. student at Brandon University, specializing in bioinformatics, particularly RNA sequencing, transcriptomics, and metagenomics. My research leverages genomic tools and data analytical approaches to address critical issues in agriculture, such as elucidating plant-pathogen interactions and how microbial diversity shape plant resilience and pathogen adaptation. I have hands-on experience in Python, R, Bash scripting, and SQL.
 
 ## 🔧 My Toolkit
 
-- **RNA-Seq**: FastQC, MultiQC, Trimmomatic, HISAT2, Salmon, FeatureCounts
+- **RNA-Seq**: FastQC, MultiQC, Trimmomatic, HISAT2, Salmon, FeatureCounts, eggNOG-mapper, GProfiler
 - **Transcriptome Assembly**: Trinity, Blast
 - **Microbial Profiling**: QIIME2
-- **Genomic Databases**: NCBI NCBI-GEO, Ensembl, SoyBase, Vectorase, DAVID, Galaxy
+- **Genomic Databases/Platforms**: NCBI NCBI-GEO, Ensembl, SoyBase, Vectorase, DAVID, Galaxy
 - **Data Analysis Frameworks**: Pandas, Scikit-Learn, PyDESeq2
 - **Visualization**: Matplotlib, Seaborn
 
-  ## 📜 Certifications & Professional Development
+## 📜 Certifications & Professional Development
 
 - **[Bioinformatics Specialization](https://coursera.org/share/ddf22464a84e589b67339625baa78173)** | University of California, San Diego (Coursera) | *JULY 2025*
 - **[Genomic Data Science Specialization](https://coursera.org/share/8a94952989d91672fc59f4baf507ed24)** | John Hopkins University (Coursera) | *APRIL 2025*
@@ -26,7 +26,7 @@
   
 - 👯 I’m looking to collaborate on **Bioinformatics and Data Science projects**
 
-- ⚡ Fun fact I love **music** and **gardening**
+- ⚡ Fun fact: I love **music** and **gardening**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
