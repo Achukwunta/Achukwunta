@@ -7,7 +7,7 @@
 - **Transcriptome Assembly**: Trinity
 - **Microbial Profiling**: QIIME2
 - **Functional Annotation**: TransDecoder, eggNOG-mapper, BLAST, GProfiler, DAVID
-- **Genomic Databases/Platforms**: NCBI NCBI-GEO, Ensembl, Phytozome, SoyBase, Vectorase, Galaxy
+- **Genomic Databases/Platforms**: NCBI NCBI-GEO, Ensembl, Phytozome, SoyBase, VectorBase, Galaxy
 - **Data Analysis Frameworks**: Pandas, Scikit-Learn, PyDESeq2
 - **Visualization**: Matplotlib, Seaborn
 
