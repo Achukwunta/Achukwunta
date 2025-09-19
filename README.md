@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Augustine Chukwunta</h1>
-<p align="left">A graduate research assistant and M.Sc. student at Brandon University, specializing in bioinformatics, particularly RNA sequencing, transcriptomics, and metagenomics. My research leverages genomic tools and data analytical approaches to address critical issues in agriculture, such as elucidating plant-pathogen interactions and how microbial diversity shape plant resilience and pathogen adaptation. I have hands-on experience in Python, R, Bash scripting, and SQL.
+<p align="left">A graduate research assistant and M.Sc. student at Brandon University, specializing in bioinformatics, particularly RNA sequencing, transcriptomics, and metagenomics. My research leverages genomic tools and data analytical approaches to address critical issues in agriculture, such as elucidating plant-pathogen interactions and how microbial communities shape plant resilience and pathogen adaptation. I have hands-on experience in Python, R, Bash scripting, and SQL.
 
 ## 🔧 My Toolkit
 
-- **RNA-Seq**: FastQC, MultiQC, Trimmomatic, HISAT2, Salmon, FeatureCounts, eggNOG-mapper, GProfiler
-- **Transcriptome Assembly**: Trinity, Blast
+- **RNA-Seq**: FastQC, MultiQC, Trimmomatic, Fastp, HISAT2, Salmon, FeatureCounts
+- **Transcriptome Assembly**: Trinity
 - **Microbial Profiling**: QIIME2
-- **Genomic Databases/Platforms**: NCBI NCBI-GEO, Ensembl, SoyBase, Vectorase, DAVID, Galaxy
+- **Functional Annotation**: TransDecoder, eggNOG-mapper, BLAST, GProfiler, DAVID
+- **Genomic Databases/Platforms**: NCBI NCBI-GEO, Ensembl, SoyBase, Vectorase, Galaxy
 - **Data Analysis Frameworks**: Pandas, Scikit-Learn, PyDESeq2
 - **Visualization**: Matplotlib, Seaborn
 
