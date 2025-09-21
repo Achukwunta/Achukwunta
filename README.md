@@ -22,13 +22,14 @@
 - **Data Analytics Bootcamp** | One Campus | *JULY 2023*
 
 ## 🚧 My Projects
-
+### Main:
 1. Dual RNA-seq analysis of Soybean in response to *Alternaria alternata* infection
 2. *De novo* assembly and comparative analysis of *Hypnoidus abbreviatus* and *Limonius californicus* transcriptomes
 3. Investigating the impacts of fungicides on microbiome diversity in the Barley phyllosphere and rhizosphere
 
-My repositories contain pipelines for RNA-seq analysis and *de novo* assembly. The third project is currently in the analysis stage and its repository will be created upon completion.
-
+Repositories contain pipelines for RNA-seq analysis and *de novo* assembly. The third project is currently in the analysis stage and its repository will be created upon completion.
+### Applied Data Science:
+I have also explored machine learning applications by building predictive models such as time series forecasting, classification, and NLP (e.g., fake news detection).
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achukwunta&label=Profile%20views&color=0e75b6&style=flat" alt="achukwunta" /> </p>
   
 - 👯 I’m looking to collaborate on **Bioinformatics and Data Science projects**
@@ -37,7 +38,7 @@ My repositories contain pipelines for RNA-seq analysis and *de novo* assembly. T
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/augustine-chukwunta-702523b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/augustine-chukwunta-702523b8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 <a href="mailto:augustine.chukwunta@gmail.com" target="_blank"><img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Email Me" height="35" width="40" /></a>
 </p>
 
