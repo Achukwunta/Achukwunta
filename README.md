@@ -19,7 +19,7 @@
 - **[Python for Data Science](https://courses.edx.org/certificates/7de508c8d7f04e55975a0dd15c1a638d)** | IBM (edX) | *JAN 2025*
 - **[Introduction to Cloud Computing](https://courses.edx.org/certificates/163ea2740e7c4f208579e1ad973e3c9d)** | IBM (edX) | *JUNE 2024*
 - **R Workshop** | Dr. Steffi LaZerte | *FEB 2024*
-- **Data Analytics Bootcamp** | One Campus | *JULY 2023*
+- **Data Analytics Bootcamp** | Dr. Stanley Omeike (One Campus Academy) | *JULY 2023*
 
 ## 🚧 My Projects
 ### Main:
