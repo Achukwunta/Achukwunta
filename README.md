@@ -29,7 +29,7 @@
 
 Repositories contain pipelines for RNA-seq analysis and *de novo* assembly. The third project is currently in the analysis stage and its repository will be created upon completion.
 ### Applied Data Science:
-I have also explored machine learning applications by building predictive models such as time series forecasting, classification, and NLP (e.g., fake news detection).
+I've also explored machine learning by building predictive models in areas like time series forecasting, classification, and NLP.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achukwunta&label=Profile%20views&color=0e75b6&style=flat" alt="achukwunta" /> </p>
   
 - 👯 I’m looking to collaborate on **Bioinformatics and Data Science projects**
