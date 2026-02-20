@@ -3,12 +3,15 @@
 
 ## 🔧 My Toolkit
 
-- **RNA-Seq**: FastQC, MultiQC, Trimmomatic, Fastp, HISAT2, Salmon, FeatureCounts
-- **Transcriptome Assembly**: Trinity
-- **Microbial Profiling**: QIIME2
-- **Functional Annotation**: TransDecoder, eggNOG-mapper, BLAST, GProfiler, DAVID
-- **Genomic Databases/Platforms**: NCBI NCBI-GEO, Ensembl, Phytozome, SoyBase, VectorBase, Galaxy
-- **Data Analysis Frameworks**: Pandas, Scikit-Learn, PyDESeq2
+- **RNA-Seq & Expression Analysis**: FastQC, MultiQC, Trimmomatic, fastp, HISAT2, Salmon, FeatureCounts, PyDESeq2  
+- **DNA-Seq & Variant Calling**: BWA, SAMtools, Picard, GATK (HaplotypeCaller), bcftools, SnpEff  
+- **Transcriptome Assembly**: Trinity  
+- **Microbial Profiling**: QIIME2  
+- **Functional Annotation**: TransDecoder, eggNOG-mapper, BLAST, g:Profiler, DAVID  
+- **Genomic Databases & Resources**: NCBI, GEO, Ensembl, Phytozome, SoyBase, VectorBase  
+- **Workflow & Reproducibility**: Snakemake, Conda, Bash  
+- **High-Performance Computing**: SLURM, WSL2 (Ubuntu)  
+- **Data Analysis & ML**: Pandas, NumPy, Scikit-learn  
 - **Visualization**: Matplotlib, Seaborn
 
 ## 📜 Certifications & Professional Development
@@ -23,8 +26,8 @@
 
 ## 🚧 My Projects
 ### Main:
-1. Dual RNA-seq analysis of Soybean in response to *Alternaria alternata* infection
-2. *De novo* assembly and comparative analysis of *Hypnoidus abbreviatus* and *Limonius californicus* transcriptomes
+1. Dual RNA-seq analysis of *Glycine max* in response to *Alternaria alternata* infection
+2. *De novo* assembly and comparative analysis of *Limonius californicus* transcriptomes
 3. Investigating the impacts of fungicides on microbiome diversity in the Barley phyllosphere and rhizosphere
 
 Repositories contain pipelines for RNA-seq analysis and *de novo* assembly. The third project is currently in the analysis stage and its repository will be created upon completion.
@@ -34,7 +37,7 @@ I've also explored machine learning by building predictive models in areas like 
   
 - 👯 I’m looking to collaborate on **Bioinformatics and Data Science projects**
 
-- ⚡ Fun fact: I love **music** and **gardening**
+- ⚡ Fun fact: **hiking** and **gardening**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
