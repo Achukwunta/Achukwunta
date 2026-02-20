@@ -27,7 +27,7 @@
 ## 🚧 My Projects
 ### Main:
 1. Dual RNA-seq analysis of *Glycine max* in response to *Alternaria alternata* infection
-2. *De novo* assembly and comparative analysis of *Limonius californicus* transcriptomes
+2. *De novo* assembly and comparative analysis of *Hypnoidus abbreviatus* transcriptomes
 3. Investigating the impacts of fungicides on microbiome diversity in the Barley phyllosphere and rhizosphere
 
 Repositories contain pipelines for RNA-seq analysis and *de novo* assembly. The third project is currently in the analysis stage and its repository will be created upon completion.
