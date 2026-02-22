@@ -1,18 +1,30 @@
 <h1 align="center">Hi 👋, I'm Augustine Chukwunta</h1>
-<p align="left">A graduate research assistant and M.Sc. student at Brandon University, specializing in bioinformatics, particularly RNA sequencing, transcriptomics, and metagenomics. My research leverages genomic tools and data analytical approaches to address critical issues in agriculture, such as elucidating plant-pathogen interactions and how microbial communities shape plant resilience and pathogen adaptation. I have hands-on experience in Python, R, Bash scripting, and SQL.
+<h3 align="center">M.Sc. Bioinformatics @ Brandon University</h3>
+<p align="left">I develop computational workflows to solve agricultural and genomic challenges. My work spans from host-pathogen transcriptomics to metagenomic community profiling and automated pipeline engineering.
+
+## 🧬 Technical Focus
+- **Transcriptomics**: Dual RNA-seq (host-pathogen), *de novo* assembly, and differential expression analysis.
+- **Metagenomics**: Microbiome diversity (Alpha/Beta) and taxonomic profiling in plant-soil interfaces.
+- **Genomics & Dev**: Snakemake workflow development, germline variant calling, and HPC data management.
 
 ## 🔧 My Toolkit
 
-- **RNA-Seq & Expression Analysis**: FastQC, MultiQC, Trimmomatic, fastp, HISAT2, Salmon, FeatureCounts, PyDESeq2  
-- **DNA-Seq & Variant Calling**: BWA, SAMtools, Picard, GATK (HaplotypeCaller), bcftools, SnpEff  
-- **Transcriptome Assembly**: Trinity  
-- **Microbial Profiling**: QIIME2  
-- **Functional Annotation**: TransDecoder, eggNOG-mapper, BLAST, g:Profiler, DAVID  
-- **Genomic Databases & Resources**: NCBI, GEO, Ensembl, Phytozome, SoyBase, VectorBase  
-- **Workflow & Reproducibility**: Snakemake, Conda, Bash  
-- **High-Performance Computing**: SLURM, WSL2 (Ubuntu)  
-- **Data Analysis & ML**: Pandas, NumPy, Scikit-learn  
-- **Visualization**: Matplotlib, Seaborn
+- **Languages**: Python, R, Bash, SQL
+- **Environment & Workflow**: Snakemake, Conda, Git, WSL2 (Ubuntu)
+#### Bioinformatics Toolkit:
+- **RNA-Seq & Transcriptomics**: HISAT2, Salmon, Trinity, PyDESeq2, FeatureCounts, Trimmomatic, fastp, FastQC, MultiQC
+- **DNA-Seq & Variant Calling**: GATK (HaplotypeCaller), BWA, SAMtools, Picard, bcftools, SnpEff
+- **Microbial Profiling & Annotation**: QIIME2, TransDecoder, eggNOG-mapper, BLAST, g:Profiler, DAVID
+- **Data Science & Visualization**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Databases**: NCBI, Ensembl, SoyBase, Phytozome, GEO, VectorBase
+
+## 🚧 Featured Projects
+1. **Workflow Engineering**: Reproducible germline variant calling pipeline, demonstrated on chr20 using NA12878 raw dataset
+2. ***De novo* Assembly**: Transcriptome and comparative analysis of *Hypnoidus abbreviatus*
+3. **Plant-Pathogen Interaction**: Dual RNA-seq analysis of *Glycine max* vs. *A. alternata*
+4. **Microbiome Diversity**: Impact of fungicides on Barley rhizosphere and phyllosphere.
+
+Repositories contain pipelines for Dual RNA-seq analysis, *de novo* assembly, and variant calling. Microbiome repository will be created upon completion.
 
 ## 📜 Certifications & Professional Development
 
@@ -24,15 +36,6 @@
 - **R Workshop** | Dr. Steffi LaZerte | *FEB 2024*
 - **Data Analytics Bootcamp** | Dr. Stanley Omeike (One Campus Academy) | *JULY 2023*
 
-## 🚧 My Projects
-### Main:
-1. Dual RNA-seq analysis of *Glycine max* in response to *Alternaria alternata* infection
-2. *De novo* assembly and comparative analysis of *Hypnoidus abbreviatus* transcriptomes
-3. Investigating the impacts of fungicides on microbiome diversity in the Barley phyllosphere and rhizosphere
-
-Repositories contain pipelines for RNA-seq analysis and *de novo* assembly. The third project is currently in the analysis stage and its repository will be created upon completion.
-### Applied Data Science:
-I've also explored machine learning by building predictive models in areas like time series forecasting, classification, and NLP.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achukwunta&label=Profile%20views&color=0e75b6&style=flat" alt="achukwunta" /> </p>
   
 - 👯 I’m looking to collaborate on **Bioinformatics and Data Science projects**
